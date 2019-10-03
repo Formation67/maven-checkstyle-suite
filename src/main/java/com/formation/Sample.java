@@ -6,7 +6,6 @@ package com.formation;
  *
  */
 public class Sample {
-public class Sample {
   /**
    *
    * @return Boolean
