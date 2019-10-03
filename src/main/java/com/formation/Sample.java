@@ -6,8 +6,12 @@ package com.formation;
  *
  */
 public class Sample {
-	
-	public Boolean shouldBeWarning() {
+public class Sample {
+  /**
+   *
+   * @return Boolean
+   */	
+	public final Boolean shouldBeWarning() {
 		return null;
 	}
 
